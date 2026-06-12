@@ -15,15 +15,14 @@ All assignment markdown files should follow these guidelines:
 
 ## 2. Section Guidance
 
-The section headers should use the exact icons and formatting from the template.
+The section headers should reflect the structure in the template, including the exact icon usage.
 
-- **Title**: Replace `[Assignment Title]` with a short, descriptive name (for example, `Python Basics`, `Loops and Conditionals`, or `Data Visualization`).
-- **Objective**: Write 1-2 clear sentences summarizing what the student will build and what they will learn.
+- **Title**: Replace `[Assignment Title]` with a short, descriptive name (e.g., `Python Basics`, `Loops and Conditionals`, `Functions and Modules`).
+- **Objective**: Write 1-2 sentences summarizing what the student will learn or accomplish. Focus on the main skills or concepts.
 - **Tasks**: For each task:
-  - Use a specific, action-oriented task title.
-  - In **Description**, clearly explain what the student needs to do.
-  - In **Requirements**, list the expected outcomes or features using bullet points.
-  - Keep requirements specific, measurable, and focused on the student’s final program behavior.
-  - Add example input/output in code blocks when it helps clarify the task.
+   - Use a specific, action-oriented task name
+   - In the Description, clearly state what the student must do.
+   - In Requirements, use bullet points to list the expected outcomes or features. Be specific and measurable
+   - Provide example input/output in code blocks if helpful.
 
-Do not add extra sections beyond the template unless the assignment explicitly requires them.
+Do not include extra sections unless explicitly specified.
