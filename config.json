@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "carpeta",
+      "title": "Carpeta",
+      "description": "Create and register the new assignment directory structure for the project.",
+      "path": "assignments/carpeta",
+      "dueDate": "2026-06-18"
     }
   ]
 }
